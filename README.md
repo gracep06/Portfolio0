@@ -1,5 +1,5 @@
 # Portfolio0
-Repositorio curso git
-Nam vestibulum faucibus nisl. Cras imperdiet eros vitae ex faucibus, eget tincidunt eros facilisis. In hac habitasse platea dictumst. Nulla in finibus erat, sed volutpat nisi. Aenean in mi ligula. In molestie, nisl non luctus fringilla, sapien odio lacinia sapien, quis hendrerit eros arcu non arcu. Duis faucibus vitae dolor sit amet dapibus. Duis a libero rutrum, accumsan felis vitae, sagittis nunc. Fusce tincidunt egestas lacus id varius. Cras venenatis quis leo at ornare. Fusce lacus turpis, mollis ac sapien nec, ornare scelerisque leo. Quisque efficitur facilisis faucibus. Fusce tristique molestie leo ut cursus. Fusce eu sagittis massa, ac semper sem. Sed quis placerat tortor. Vivamus pulvinar nec nulla sed pharetra.
+Gatos
+Los gatos son una de las mascotas más populares del mundo. También se encuentran entre los animales más interesantes para estudiar. Las características de los gatos son muchas y únicas, puesto que, algunas de ellas no se encuentran en otros animales domésticos.
 
-Mauris a ipsum eget sem ornare vestibulum. Curabitur congue commodo urna id blandit. Cras eget lorem vulputate, ultricies elit id, tempor turpis. Cras consequat tellus sit amet quam iaculis sollicitudin. Mauris erat enim, euismod sit amet neque a, vulputate dignissim diam. Nulla eros augue, mattis et tortor at, dignissim commodo dui. Nunc augue mauris, porta sed aliquam porta, varius ac arcu.
+Los gatos son curiosos por naturaleza y les encanta explorar. Son animales muy independientes y no les gusta depender de sus dueños. Son animales domésticos que necesitan hacer mucho ejercicio al día, es por ello, que son cazadores por naturaleza y pueden llegar a jugar durante muchas horas.
