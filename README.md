@@ -1,18 +1,17 @@
 # Portfolio0
-Repositorio curso git
-Nam vestibulum faucibus nisl. Cras imperdiet eros vitae ex faucibus, eget tincidunt eros facilisis. In hac habitasse platea dictumst. Nulla in finibus erat, sed volutpat nisi. Aenean in mi ligula. In molestie, nisl non luctus fringilla, sapien odio lacinia sapien, quis hendrerit eros arcu non arcu. Duis faucibus vitae dolor sit amet dapibus. Duis a libero rutrum, accumsan felis vitae, sagittis nunc. Fusce tincidunt egestas lacus id varius. Cras venenatis quis leo at ornare. Fusce lacus turpis, mollis ac sapien nec, ornare scelerisque leo. Quisque efficitur facilisis faucibus. Fusce tristique molestie leo ut cursus. Fusce eu sagittis massa, ac semper sem. Sed quis placerat tortor. Vivamus pulvinar nec nulla sed pharetra.
+RAZAS DE GATOS
 
-Mauris a ipsum eget sem ornare vestibulum. Curabitur congue commodo urna id blandit. Cras eget lorem vulputate, ultricies elit id, tempor turpis. Cras consequat tellus sit amet quam iaculis sollicitudin. Mauris erat enim, euismod sit amet neque a, vulputate dignissim diam. Nulla eros augue, mattis et tortor at, dignissim commodo dui. Nunc augue mauris, porta sed aliquam porta, varius ac arcu.
+Angora Turco
+Famosos por su largos cuerpos de bailarina, y por su sedoso y suave pelaje, el angora turco es considerado un tesoro en su Turquía natal. A pesar de su delicado aspecto, el angora turco es un gato juguetón e inteligente que puede apegarse mucho a su dueño. Son amistosos, aunque decididos, con niños y otros amigos peludos.
 
-Suspendisse laoreet urna at purus mollis ornare.
-Nulla et lectus nec metus porttitor dapibus.
-Donec tristique quam sit amet eros finibus, ac sollicitudin eros commodo.
-Nam non ante maximus, vulputate ex et, mollis augue.
-Donec euismod nisl vitae consectetur dignissim.
-Praesent a lorem tempus, tincidunt augue non, egestas odio.
-Sed vulputate est eget sem vestibulum, vitae dictum augue posuere.
-Nam eget ipsum ut sapien pellentesque ullamcorper vel vitae nisl.
-Maecenas at elit vehicula, lobortis magna vitae, porttitor mi.
-Sed placerat mauris ac augue fringilla lobortis in sed tellus.
-Integer luctus libero nec mauris mollis dapibus.
-Ut ut sapien laoreet, sagittis nulla quis, cursus leo.
+Van Turco
+El van turco es una raza activa a la que le gusta trepar, saltar y explorar. Son simpáticos y cariñosos, sobre todo con su adorada familia. Y, sorprendentemente, este pequeño peludo es un gran fan del agua, ¡que no te extrañe si se mete contigo en la bañera!
+
+Azul Ruso
+El azul ruso es una raza de gato preciosa, musculada y de finos huesos. Son famosos por su pelaje lujoso, denso y plateado, y por sus brillantes ojos verdes. El azul ruso puede ser un poco reservado, pero en cuanto os conozcáis, se creará un vínculo afectivo muy estrecho que durará toda la vida.
+
+Esfinge
+El esfinge sin pelo es fácilmente reconocible por su peculiar aspecto. Sus grandes orejas, ojos con forma de limón y piel arrugada de tacto parecido a la gamuza lo convierten en un ser único. Es un amigo de verdad al que le encanta acurrucarse y ser tu compañero del día a día. Es un gato inteligente, curioso y encantador.
+
+Gato Siberiano
+Social, dulce y leal, el gato siberiano lleva miles de años robándole el corazón al pueblo ruso. Si buscas un excelente gato de familia de mentalidad juguetona y carácter dulce, esta es tu raza.
